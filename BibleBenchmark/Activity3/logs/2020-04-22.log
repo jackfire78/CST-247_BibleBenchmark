@@ -1,0 +1,87 @@
+2020-04-22 00:00:58.8058 INFO 
+2020-04-22 00:00:58.8327 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:00:58.9005 INFO Exiting the BibleController. Login Failure
+2020-04-22 00:01:03.4686 INFO 
+2020-04-22 00:01:03.4686 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:01:03.4946 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:01:07.2278 INFO 
+2020-04-22 00:01:07.2278 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:01:07.2547 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:04:19.0657 INFO 
+2020-04-22 00:04:19.0856 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:04:19.1504 INFO Exiting the BibleController. Login Failure
+2020-04-22 00:04:44.6500 INFO 
+2020-04-22 00:04:44.6500 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:04:44.6500 INFO Exiting the addVerse() in BibleController. Add Success!
+2020-04-22 00:06:42.2312 INFO 
+2020-04-22 00:06:42.2532 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:06:42.2871 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:06:50.7200 INFO 
+2020-04-22 00:06:50.7200 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:06:50.7729 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:06:56.3648 INFO 
+2020-04-22 00:06:56.3648 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:06:56.3648 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:10:14.9768 INFO 
+2020-04-22 00:10:14.9997 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:10:15.0715 INFO Exiting the BibleController. Login Failure
+2020-04-22 00:13:32.5756 INFO 
+2020-04-22 00:13:32.5946 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:13:32.6783 INFO Exiting the BibleController. Login Failure
+2020-04-22 00:13:37.2139 INFO 
+2020-04-22 00:13:37.2139 INFO Entering the BibleController. addVerse() method
+2020-04-22 00:13:37.2339 INFO Exiting the BibleController. Login Failure
+2020-04-22 00:28:11.9806 INFO 
+2020-04-22 00:28:12.0011 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:28:12.0500 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:35:01.3142 INFO 
+2020-04-22 00:35:01.3352 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:35:01.3990 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:37:37.3927 INFO 
+2020-04-22 00:37:37.4127 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:37:37.4406 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:39:08.9828 INFO 
+2020-04-22 00:39:09.0037 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:39:09.0316 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:43:26.7706 INFO 
+2020-04-22 00:43:26.7915 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:43:26.8214 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:44:33.8599 INFO 
+2020-04-22 00:44:33.8799 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:44:33.9078 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:45:20.7905 INFO 
+2020-04-22 00:45:20.8105 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:45:20.8403 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:46:37.1104 INFO 
+2020-04-22 00:46:37.1303 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:46:37.1603 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:47:39.1688 INFO 
+2020-04-22 00:47:39.1897 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:47:39.2526 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:48:43.3864 INFO 
+2020-04-22 00:48:43.4074 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:48:43.4373 INFO Exiting the BibleController. searchVerse Failure
+2020-04-22 00:49:29.6798 INFO 
+2020-04-22 00:49:29.6997 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:49:29.7695 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:50:23.5603 INFO 
+2020-04-22 00:50:23.5802 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:50:23.6131 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:51:43.4156 INFO 
+2020-04-22 00:51:43.4405 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:51:43.5013 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 00:51:50.9845 INFO 
+2020-04-22 00:51:50.9845 INFO Entering the BibleController. searchVerse() method
+2020-04-22 00:51:50.9935 INFO Exiting the BibleController. searchVerse Failure
+2020-04-22 01:02:18.5730 INFO 
+2020-04-22 01:02:18.5930 INFO Entering the BibleController. addVerse() method
+2020-04-22 01:02:18.6548 INFO Exiting the addVerse() in BibleController. Add Success!
+2020-04-22 01:02:34.5548 INFO 
+2020-04-22 01:02:34.5548 INFO Entering the BibleController. searchVerse() method
+2020-04-22 01:02:34.5548 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 12:25:24.1938 INFO 
+2020-04-22 12:25:24.2127 INFO Entering the BibleController. searchVerse() method
+2020-04-22 12:25:24.2486 INFO Exiting the searchVerse() in BibleController. searchVerse Success!
+2020-04-22 12:25:33.6171 INFO 
+2020-04-22 12:25:33.6171 INFO Entering the BibleController. searchVerse() method
+2020-04-22 12:25:33.6171 INFO Exiting the BibleController. searchVerse Failure
